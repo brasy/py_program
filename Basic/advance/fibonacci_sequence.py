@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 'generator 生成器'
 
 '斐波那契数列 1,1,2,3,5,8,13,21,34,...'
